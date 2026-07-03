@@ -1,0 +1,12 @@
+langgraph
+langchain
+langchain-core
+langchain-community
+langchain-groq
+playwright
+gradio
+python-dotenv
+nest-asyncio
+ipython
+typing_extensions
+requests
